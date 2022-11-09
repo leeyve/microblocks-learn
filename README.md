@@ -1,6 +1,6 @@
 # MicroBlocks 学习网站
 
-## 翻译**活动**(Activities)
+## 翻译**活动**（Activities）
 
 一个**活动**可以被视为一个 MicroBlocks 教学项目。
 
@@ -25,7 +25,7 @@ MicroBlocks 团队制作了许多有趣的活动: [活动页面](https://learn.m
 
 <!--在线协作开发环境 replit-->
 
-安装 NodeJS(推荐 v16) 和 npm。
+安装 NodeJS（推荐 v16）和 npm。
 
 使用 Git 克隆本仓库，运行:
 
@@ -39,20 +39,20 @@ npm install
 npm run dev
 ```
 
-现在可以通过 `http://localhost:3001/cn` 访问站点，你在翻译时所做的修改都将实时更新。
+现在可以通过 `http://localhost:3001/cn/` 访问站点，你在翻译时所做的修改都将实时更新。
 
-## 提交**活动**(Activities)
+## 提交**活动**（Activities）
 
 欢迎 MicroBlocks 中文社区的用户提交有趣的活动。更多信息，请参考[提交活动](SUBMITTING_ACTIVITIES.md)。
 
 也欢迎大家将活动制作英文版本，提交给 [MicroBlocks 官方仓库](https://gitlab.com/bromagosa/microblocks-learn)。
 
-## 如何提交翻译内容和新的**活动**
+## 提交翻译内容
 
-如果你熟悉 Github, 可以将你的翻译内容，以 Pull Request 方式提交即可。
+如果你熟悉 GitHub, 可以将你的翻译内容，以 Pull Request 方式提交即可。
 
-如果你不熟悉 Github, 可将你的翻译内容(或许还有中文配图)打包发送到邮箱: `wuwenjie718@gmail.com`。
+如果你不熟悉 GitHub, 可将你的翻译内容（或许还有中文配图）打包发送到邮箱: `wuwenjie718@gmail.com`。
 
 ## 开发者
 
-想要构建、测试、调试或扩展网站的开发人员,请参考 [这里](README_en.md)。
+想要构建、测试、调试或扩展网站的开发人员,请参考 [这里](README.md)。
