@@ -1,13 +1,13 @@
 ### 连接 micro:bit
 
-_翻译: Finn, [种瓜](https://wwj718.github.io/tags/microblocks/)_
+_翻译：Finn, [种瓜](https://wwj718.github.io/tags/microblocks/)_
 
 
-**如果你是micro:bit 新手**, 请从[这里开始](https://microblocksfun.cn/get-started).
+**如果你是 micro:bit 新手**, 请从[这里开始](https://microblocksfun.cn/get-started).
 
 打开 MicroBlocks 并使用 USB 数据线将 micro:bit 连接到你的计算机。
 
-如果你[在浏览器中运行 MicroBlocks(推荐)](https://microblocksfun.cn/run/microblocks.html), 请单击 USB 图标进行连接。
+如果你[在浏览器中运行 MicroBlocks(推荐)](https://microblocksfun.cn/run/microblocks.html)，请单击 USB 图标进行连接。
 如果你使用 MicroBlocks 桌面应用，程序将自动连接到 micro:bit。
 
 当出现一个绿色圆圈，表明 micro:bit 已连接。
@@ -46,7 +46,7 @@ _翻译: Finn, [种瓜](https://wwj718.github.io/tags/microblocks/)_
 
 ### 滚动文本
 
-将`滚动显示文字`积木块拖到脚本区域，然后单击文本框输入自定义文字(只能是英文哦)。
+将`滚动显示文字`积木块拖到脚本区域，然后单击文本框输入自定义文字（只能是英文哦）。
 
 ![](scrollText.png)
 
